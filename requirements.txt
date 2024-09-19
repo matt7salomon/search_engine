@@ -1,0 +1,5 @@
+numpy==1.23.5
+pandas==2.0.3
+protobuf==3.20.3
+tensorflow==2.15.0
+tensorflow-macos==2.15.0
